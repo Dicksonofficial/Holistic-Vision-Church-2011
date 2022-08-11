@@ -1,0 +1,23 @@
+body{
+  font-family: Arial;
+  background: #001e4a;
+  color: White;
+  
+}
+.Welcome{
+  color: #56f921;
+  font-size: #27px;
+  
+}
+.top span{
+  
+  color:gold;
+}
+.info{
+  border:2px solid red;
+  padding:   20px;
+}
+b{color:red;}
+img{
+  width: 100%;
+}
